@@ -1,0 +1,23 @@
+type: 
+  - evaluation
+task: 
+  # - binary
+  # - cls
+  - loc
+dataset:
+  - D2A
+  - juliet
+class:
+  binary: 2
+  cls:
+    juliet: 83
+    D2A: 21
+  loc: 512
+device: cuda:0
+ROC: false
+model:
+  # - Fine
+  # - Coarse 
+  - TextCNN
+average: weighted
+
