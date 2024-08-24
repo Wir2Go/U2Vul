@@ -11,7 +11,7 @@ This study introduces an approach for efficiently training the model to adjust t
 
 ## Dataset & Model
 
-Link: [zenodo](https://zenodo.org/records/13327911?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjA0YmQ0YTI1LWNhNzYtNGQ4Ni05NGVmLWJiOTdmNDNlNjkyMSIsImRhdGEiOnt9LCJyYW5kb20iOiI5ZDIyNjRhZWUyMGZiYWQ3OTA2NDY4N2Y2MjQ5ZGY0YSJ9.QdQ4ObHL-2fF1MU4tUsLD4WSBis2XyMr06iewZoDh7ZbTxuWj8iJHeXMYw_brbTJpTeOn92IygTwIEzGYbBqaw)
+Link: [zenodo](https://zenodo.org/records/13327911)
 
 Dataset is in version 1, while Model weight is in version 2. 
 
