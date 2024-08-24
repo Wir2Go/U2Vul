@@ -1,4 +1,4 @@
-# S2Vul: Vulnerability Analysis Based on Self-supervised Information Integration
+# U2Vul: Vulnerability Analysis Based on Unsupervised Information Integration
 
 ## Abstract
 The analysis of static vulnerabilities, which consists of detection, classification, and localization, is a perpetually significant concern in software security. The advancement of neural networks has led to a greater emphasis on vulnerability detection research. However, most research faced obstacles in attempting to perform satisfactorily on real-world datasets. Furthermore, an additional obstacle is the substantial reliance of the studies on labels, which requires considerable effort for labeling, restricts the model's scalability, and potentially results in adverse effects due to inaccurate labels. 
@@ -7,7 +7,7 @@ This study introduces an approach for efficiently training the model to adjust t
 
 ## Overview
 
-![Process of S2Vul](figs/Overview.png)
+![Process of U2Vul](figs/Overview.png)
 
 ## Dataset & Model
 
