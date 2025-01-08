@@ -1,4 +1,4 @@
-# U2Vul: Vulnerability Analysis Based on Unsupervised Information Integration
+# S2Vul: Vulnerability Analysis Based on Self-supervised Information Integration
 
 ## Abstract
 The analysis of static vulnerabilities, which consists of detection, classification, and localization, is a perpetually significant concern in software security. The advancement of neural networks has led to a greater emphasis on vulnerability detection research. However, most research faced obstacles in attempting to perform satisfactorily on real-world datasets. Furthermore, an additional obstacle is the substantial reliance of the studies on labels, which requires considerable effort for labeling, restricts the model's scalability, and potentially results in adverse effects due to inaccurate labels. 
@@ -68,5 +68,16 @@ python -m venv -r ./requirements.txt
 
 ## Publication
 
-TBC.
+  ```bibtex
+  @INPROCEEDINGS{10771195,
+  author={Yang, Shaojie and Xu, Haoran and Xu, Fangliang and Wang, Yongjun},
+  booktitle={2024 IEEE 35th International Symposium on Software Reliability Engineering (ISSRE)}, 
+  title={S2Vul: Vulnerability Analysis Based on Self-supervised Information Integration}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={84-95},
+  keywords={Representation learning;Location awareness;Training;Analytical models;Accuracy;Scalability;Source coding;Semantics;Software;Software reliability;Vulnerability Detection;Information Integration;Contrastive Learning;Transformer Model;Graph Neural Network},
+  doi={10.1109/ISSRE62328.2024.00019}}
+  ```
 
